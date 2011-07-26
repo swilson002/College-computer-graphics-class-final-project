@@ -1,0 +1,17 @@
+This is the final project in the Computer Graphics course, a park.
+
+A few things to note:
+This was written on a RedHat Linux 9 distribution
+The makefile was not written by me, but did work using RedHat and Suze Linux.  I make no guarentees that it will work.
+There is some animation in the park (swinging swings), but it was written on older hardware and does not take processor speed into consideration.  I have no idea how fast the swings will swing using modern hardware.
+No special graphical tricks used.  Just dull colors.  There isn't even any hit detection outside of outer boundaries.
+
+Controls:
+8 or w - forward
+5 or s - backwards
+4 or a - move left
+6 or d - move right
+7 or q - turn left
+9 or e - turn right
++ or f - move up
+- or r - move down
